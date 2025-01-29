@@ -1,0 +1,1495 @@
+
+.compilazione
+{
+    color:black;
+    font-size: 15pt;
+    background-color:white;
+    font-family: 'Lucida Sans';
+    border-radius: 5px 10px 5px 10px;
+    position: relative;
+    left: 16%;
+    border-color:black;
+}
+
+.compilazionepul
+{
+    color:rgb(255, 255, 255);
+    font-size: 25pt;
+    background-color:rgb(124, 57, 57);
+    font-family: 'Lucida Sans';
+    border-radius: 5px 10px 5px 10px;
+    position: relative;
+    left: 16%;
+    border-color:black;
+}
+
+.puls
+{
+    color:rgb(255, 255, 255);
+    font-size: 25pt;
+    background-color:rgb(124, 57, 57); 
+    font-family: 'Lucida Sans';
+    border-radius: 5px 10px 5px 10px;
+    position: relative;
+    left:21.1%;
+    border-color:black;
+}
+
+.background
+{
+    background-color: rgb(160, 95, 95);
+}
+
+.backgroundprin
+{
+    background-color: rgb(160, 95, 95);
+}
+
+.primarg
+{
+    color:rgb(255, 255, 255);
+    font-size: 20pt;
+    font-family: 'Lucida Sans';
+    position: relative;
+    margin-left: 11%;
+}
+
+.secondarg
+{
+    color:rgb(255, 255, 255);
+    font-size: 20pt;
+    font-family: 'Lucida Sans';
+    position: relative;
+    margin-left: 15%;
+}
+
+.terzarg
+{
+    color:rgb(255, 255, 255);
+    font-size: 20pt;
+    font-family: 'Lucida Sans';
+    position: relative;
+    margin-left: 22%;
+}
+
+.quartarg
+{
+    color:rgb(255, 255, 255);
+    font-size: 20pt;
+    font-family: 'Lucida Sans';
+    position: relative;
+    margin-left: 25.5%;
+}
+
+.quintarg
+{
+    color:rgb(255, 255, 255);
+    font-size: 20pt;
+    font-family: 'Lucida Sans';
+    position: relative;
+    margin-left: 18%;
+}
+
+.sestarg
+{
+    color:rgb(255, 255, 255);
+    font-size: 20pt;
+    font-family: 'Lucida Sans';
+    position: relative;
+    margin-left: 25%;
+}
+
+.settimarg
+{
+    color:rgb(255, 255, 255);
+    font-size: 20pt;
+    font-family: 'Lucida Sans';
+    position: relative;
+    margin-left: 22%;
+}
+
+.ottavarg
+{
+    color:rgb(255, 255, 255);
+    font-size: 20pt;
+    font-family: 'Lucida Sans';
+    position: relative;
+    margin-left: 33%;
+}
+
+.capo
+{
+    color: rgb(255, 255, 255);
+    font-size: 20pt;
+    font-family: 'Lucida Sans';
+    position: relative;
+    left: 12%;
+    top: 5%;
+    display: inline-block;
+    background-color: rgb(124, 57, 57);
+    border-radius: 5px 10px 5px 10px;
+    padding: 5px;
+}
+
+.testo
+{
+    color:white;
+    font-size: 15pt;
+    font-family: 'Lucida Sans';
+    position: relative;
+    background-color: rgb(124, 57, 57);
+    border-radius: 5px 10px 5px 10px;
+    margin-top: 3%;
+    border-color:black;
+    display: flex;
+    width: 1000px;
+    left: 9%;
+}
+
+.datisens
+{
+    color:white;
+    font-size: 15pt;
+    font-family: 'Lucida Sans';
+    position: relative;
+    background-color: rgb(124, 57, 57);
+    border-radius: 5px 10px 5px 10px;
+    border-color:black;
+    margin-top: 12%;
+    display: flex;
+    width: 490px;
+    left: 22.6%;
+}
+
+.primacl
+{
+    color:black;
+    font-size: 15pt;
+    font-family: 'Lucida Sans';
+    background-color: white;
+    border-radius: 5px 10px 5px 10px;
+    margin-left: 16%;
+    border-color:black;
+}
+
+.secondacl
+{
+    color:black;
+    font-size: 15pt;
+    font-family: 'Lucida Sans';
+    background-color: white;
+    border-radius: 5px 10px 5px 10px;
+    margin-left: 12%;
+    border-color:black;
+}
+
+.inline
+{
+    display: flex;
+    gap: 5px;
+}
+
+input[type="date"] 
+{
+    width: 13%;
+}
+
+.titoli
+{
+    color:rgb(255, 255, 255);
+    font-size: 20pt;
+    font-family: 'Lucida Sans';
+    margin-top: 0%;
+    margin-left: 20%;
+    display: inline;
+    background-color: rgb(124, 57, 57);
+    border-radius: 5px 10px 5px 10px;
+    border-color: black;
+    padding: 5px;
+}
+
+.tit
+{
+    color:rgb(255, 255, 255);
+    font-size: 20pt;
+    font-family: 'Lucida Sans';
+    margin-left: 16%;
+    display: inline-block;
+    background-color: rgb(124, 57, 57);
+    border-radius: 5px 10px 5px 10px;
+    border-color: black;
+    padding: 5px;
+}
+
+.imgpr
+{
+    float: left;
+    margin-left: 1%;
+    border-radius: 5px 10px 5px 10px;
+}
+
+.imgsec
+{
+    float: right;
+    margin-right: 1%;
+    border-radius: 5px 10px 5px 10px;
+}
+
+.cldiv
+{
+    color:black;
+    font-size: 15pt;
+    font-family: 'Lucida Sans';
+    background-color: white;
+    border-radius: 5px 10px 5px 10px;
+    margin-left: 26.5%;
+    border-color:black;
+}
+
+.buttone
+{
+    color:rgb(255, 255, 255);
+    font-size: 25pt;
+    font-family: 'Lucida Sans';
+    background-color: rgb(124, 57, 57);
+    border-radius: 5px 10px 5px 10px;
+    margin-left: 13%;
+    border-color:black;
+}
+
+.butttwo
+{
+    color:rgb(255, 255, 255);
+    font-size: 25pt;
+    font-family: 'Lucida Sans';
+    background-color: rgb(124, 57, 57);
+    border-radius: 5px 10px 5px 10px;
+    margin-left: 15%;
+    border-color:black;
+}
+
+.buttthree
+{
+    color:rgb(255, 255, 255);
+    font-size: 25pt;
+    font-family: 'Lucida Sans';
+    background-color: rgb(124, 57, 57);
+    border-radius: 5px 10px 5px 10px;
+    margin-left: 15%;
+    border-color:black;
+}
+
+.imagecon
+{
+    margin-top: 25%;
+    width: 800px;
+    height: 600px;
+    border-radius: 5px 10px 5px 10px;
+}
+
+.container
+{
+    position: relative;
+    margin-left: 28.5%;
+    width: 600px;
+    height: 400px;
+}
+
+.textoverlayone 
+{
+    position: absolute; 
+    top: 60%; 
+    left: 35%; 
+    color: rgb(255, 255, 255);
+    background-color :rgb(124, 57, 57); 
+    padding: 10px;
+    font-size: 20px; 
+    border-radius: 5px;
+}
+
+.textoverlaytwo 
+{
+    position: absolute; 
+    top: 90%; 
+    left: 35%; 
+    color: rgb(255, 255, 255); 
+    background-color: rgb(124, 57, 57); 
+    padding: 10px; 
+    font-size: 20px; 
+    border-radius: 5px; 
+}
+
+.textoverlaythree
+{
+    position: absolute;
+    top: 120%; 
+    left: 35%; 
+    color: rgb(255, 255, 255); 
+    background-color: rgb(124, 57, 57); 
+    padding: 10px;
+    font-size: 20px; 
+    border-radius: 5px; 
+}
+
+.textoverlayfour
+{
+    position: absolute; 
+    top: 150%; 
+    left: 35%; 
+    color: rgb(255, 255, 255);
+    background-color: rgb(124, 57, 57); 
+    padding: 10px; 
+    font-size: 20px; 
+    border-radius: 5px; 
+}
+
+.titpri
+{
+    color:black;
+    font-size: 25pt;
+    font-family: 'Lucida Sans';
+    position: relative;
+    left: 26%;
+}
+
+.imageconaz
+{
+    display: block;
+    width: 1200px;
+    height: 900px;
+    border-radius: 5px 10px 5px 10px;
+}
+
+.containeraz
+{
+    position: relative;
+    margin-top: 0%;
+    margin-left: 18%;
+    width: 600px;
+    height: 400px;
+}
+
+.rigaone
+{
+    float: left;
+    width: 5px;
+    height: 900px;
+    margin-left: 2%;
+    margin-top: 0%;
+    background-color: rgb(124, 57, 57);
+    border-color: black;
+}
+
+.rigatwo
+{
+    float: left;
+    width: 5px;
+    height: 900px;
+    margin-left: 2%;
+    margin-top: 0%;
+    background-color: rgb(124, 57, 57);
+    border-color: black;
+}
+
+.rigathree
+{
+    float: left;
+    width: 5px;
+    height: 900px;
+    margin-left: 2%;
+    margin-top: 0%;
+    background-color: rgb(124, 57, 57);
+    border-color: black;
+}
+
+.rigafour
+{
+    float: right;
+    width: 5px;
+    height: 900px;
+    margin-right: 2%;
+    margin-top: 0%;
+    background-color: rgb(124, 57, 57);
+    border-color: black;
+}
+
+.rigafive
+{
+    float: right;
+    width: 5px;
+    height: 900px;
+    margin-right: 2%;
+    margin-top: 0%;
+    background-color: rgb(124, 57, 57);
+    border-color: black;
+}
+
+.rigasix
+{
+    float: right;
+    width: 5px;
+    height: 900px;
+    margin-right: 2%;
+    margin-top: 0%;
+    background-color: rgb(124, 57, 57);
+    border-color: black;
+}
+
+.rigaconto
+{
+    float: left;
+    width: 5px;
+    height: 900px;
+    margin-left: 2%;
+    margin-top: 0%;
+    background-color: rgb(124, 57, 57);
+    border-color: black;
+}
+
+.rigacontt
+{
+    float: left;
+    width: 5px;
+    height: 900px;
+    margin-left: 2%;
+    margin-top: 0%;
+    background-color: rgb(124, 57, 57);
+    border-color: black;
+}
+
+.rigaconttt
+{
+    float: left;
+    width: 5px;
+    height: 900px;
+    margin-left: 2%;
+    margin-top: 0%;
+    background-color: rgb(124, 57, 57);
+    border-color: black;
+}
+
+.rigacontf
+{
+    float: right;
+    width: 5px;
+    height: 900px;
+    margin-right: 2%;
+    margin-top: 0%;
+    background-color: rgb(124, 57, 57);
+    border-color: black;
+}
+
+.rigacontff
+{
+    float: right;
+    width: 5px;
+    height: 900px;
+    margin-right: 2%;
+    margin-top: 0%;
+    background-color: rgb(124, 57, 57);
+    border-color: black;
+}
+
+.rigaconts
+{
+    float: right;
+    width: 5px;
+    height: 900px;
+    margin-right: 2%;
+    margin-top: 0%;
+    background-color: rgb(124, 57, 57);
+    border-color: black;
+}
+
+.rigabsx
+{
+    float: left;
+    width: 100px;
+    height: 900px;
+    margin-left: 2%;
+    margin-top: 0%;
+    background-color: rgb(124, 57, 57);
+    border-color: black;
+    writing-mode: vertical-rl;
+    transform: rotate(0deg);
+    text-align: center;
+    color: white;
+    font-family: 'Lucida Sans';
+    font-size: 100px;
+}
+
+.rigabdx
+{
+    float: right;
+    width: 100px;
+    height: 900px;
+    margin-right: 2%;
+    margin-top: 0%;
+    background-color: rgb(124, 57, 57);
+    border-color: black;
+    writing-mode: vertical-rl;
+    transform: rotate(360deg);
+    text-align: center;
+    color: white;
+    font-family: 'Lucida Sans';
+    font-size: 100px;
+}
+
+.textaz
+{
+    position: absolute; 
+    top: 10%; 
+    left: 32%; 
+    color: rgb(255, 255, 255);
+    background-color :rgb(124, 57, 57); 
+    padding: 10px;
+    font-size: 30px;
+    font-family: 'Lucida Sans'; 
+    border-radius: 5px;
+    width: 800px;
+}
+
+.rigadxaz
+{
+    float: right;
+    width: 100px;
+    height: 900px;
+    margin-right: 2%;
+    margin-top: 0%;
+    background-color: rgb(124, 57, 57);
+    border-color: black;
+    writing-mode: vertical-rl;
+    transform: rotate(360deg);
+    text-align: center;
+    color: white;
+    font-family: 'Lucida Sans';
+    font-size: 100px;
+}
+
+.rigasxaz
+{
+    float: left;
+    width: 100px;
+    height: 900px;
+    margin-left: 2%;
+    margin-top: 0%;
+    background-color: rgb(124, 57, 57);
+    border-color: black;
+    writing-mode: vertical-rl;
+    transform: rotate(0deg);
+    text-align: center;
+    color: white;
+    font-family: 'Lucida Sans';
+    font-size: 100px;
+}
+
+.imageprogo
+{
+    width: 400px;
+    height: 300px;
+    border-radius: 5px 10px 5px 10px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.textprogo
+{
+    position: absolute; 
+    top: 60%; 
+    left: 35%; 
+    color: rgb(255, 255, 255);
+    background-color :rgb(124, 57, 57); 
+    padding: 10px;
+    font-size: 20px; 
+    border-radius: 5px;
+}
+
+.textprogt
+{
+    position: absolute; 
+    top: 60%; 
+    left: 35%; 
+    color: rgb(255, 255, 255);
+    background-color :rgb(124, 57, 57); 
+    padding: 10px;
+    font-size: 20px; 
+    border-radius: 5px;
+}
+
+.textprogtt
+{
+    position: absolute; 
+    top: 60%; 
+    left: 35%; 
+    color: rgb(255, 255, 255);
+    background-color :rgb(124, 57, 57); 
+    padding: 10px;
+    font-size: 20px; 
+    border-radius: 5px;
+}
+
+.textprogf
+{
+    position: absolute; 
+    top: 60%; 
+    left: 35%; 
+    color: rgb(255, 255, 255);
+    background-color :rgb(124, 57, 57); 
+    padding: 10px;
+    font-size: 20px; 
+    border-radius: 5px;
+}
+
+.containerprogo
+{
+    position: relative;
+    margin-top: 0%;
+    margin-left: 10%;
+    width: 1000px;
+    height: 800px;
+}
+
+.containerprogt
+{
+    position: relative;
+    margin-left: 10%;
+    margin-top: -20%;
+    width: 1000px;
+    height: 800px;
+}
+
+.imageromo
+{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    float: left;
+}
+
+.imageromt
+{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    float: right;
+}
+
+.videoin
+{
+    position: absolute;
+    margin-left: 32.5%;
+    top: 25%;
+    width: 400px;
+    height: 400px;
+}
+
+.videoout
+{
+    border-radius: 5px 10px 5px 10px;
+}
+
+.titprogu
+{
+    position: absolute;
+    margin-left: 41.5%;
+    top: 5%;
+    color: white;
+    background-color: rgb(124, 57, 57);
+    font-size: 40px;
+    font-family: 'Lucida Sans';
+    border-radius: 5px 10px 5px 10px;
+}
+
+.textprogu
+{
+    position: absolute;
+    margin-left: 33.35%;
+    top: 70%;
+    color: white;
+    background-color: rgb(124, 57, 57);
+    font-size: 20px;
+    font-family: 'Lucida Sans';
+    border-radius: 5px 10px 5px 10px;
+    width: 600px;
+}
+
+.textprogd
+{
+    position: absolute;
+    margin-left: 33.45%;
+    top: 70%;
+    color: white;
+    background-color: rgb(124, 57, 57);
+    font-size: 20px;
+    font-family: 'Lucida Sans';
+    border-radius: 5px 10px 5px 10px;
+    width: 600px;
+}
+
+.textprogt
+{
+    position: absolute;
+    margin-left: -0.9%;
+    top: 70%;
+    color: white;
+    background-color: rgb(124, 57, 57);
+    font-size: 20px;
+    font-family: 'Lucida Sans';
+    border-radius: 5px 10px 5px 10px;
+    width: 550px;
+}
+
+.titprogq
+{
+    position: absolute;
+    margin-left: 38%;
+    top: 5%;
+    color: white;
+    background-color: rgb(124, 57, 57);
+    font-size: 40px;
+    font-family: 'Lucida Sans';
+    border-radius: 5px 10px 5px 10px;
+}
+
+.textprogq
+{
+    position: absolute;
+    margin-left: 33.8%;
+    top: 75%;
+    color: white;
+    background-color: rgb(124, 57, 57);
+    font-size: 20px;
+    font-family: 'Lucida Sans';
+    border-radius: 5px 10px 5px 10px;
+    width: 550px;
+}
+
+.feedback
+{
+    position: absolute;
+    margin-left: 22%;
+    top: 110%;
+    color: white;
+    background-color: rgb(124, 57, 57);
+    font-size: 40px;
+    font-family: 'Lucida Sans';
+    border-radius: 5px 10px 5px 10px;
+    width: 550px;
+}
+
+.contaifeed
+{
+    position: absolute;
+    left: 23.7%;
+    top: 5%;
+    width: 1000px;
+    height: 800px;
+    background-color: rgb(124, 57, 57);
+    border-radius: 5px 10px 5px 10px;
+}
+
+.testofeedu 
+{
+    position: absolute; 
+    top: 5%; 
+    left: 8%; 
+    color: rgb(255, 255, 255);
+    background-color :rgb(124, 57, 57); 
+    padding: 10px;
+    font-size: 40px; 
+    border-radius: 5px;
+    text-decoration: underline;
+}
+
+.testofeedt
+{
+    position: absolute; 
+    top: 20%; 
+    left: 8%; 
+    color: rgb(255, 255, 255);
+    background-color :rgb(124, 57, 57); 
+    padding: 10px;
+    font-size: 25px; 
+    border-radius: 5px;
+}
+
+.stelval
+{
+    direction: rtl; 
+    display: absolute;
+    font-size: 2rem;
+    margin-top: 16%;
+    margin-right: 40%;
+}
+
+.stel
+{
+    display: none;
+}
+
+.stelabel
+{
+    color: lightgray;
+    cursor: pointer;
+}
+
+.stelval input:checked ~ label
+{
+    color: gold;  /* Colora le stelle selezionate */
+}
+
+.stelval input:hover ~ label
+{
+    color: gold;  /* Colora le stelle al passaggio del mouse */
+}
+
+.testofeedtt
+{
+    position: absolute; 
+    top: 35%; 
+    left: 8%; 
+    color: rgb(255, 255, 255);
+    background-color :rgb(124, 57, 57); 
+    padding: 10px;
+    font-size: 25px; 
+    border-radius: 5px;
+}
+
+.stelvalt
+{
+    direction: rtl; 
+    display: absolute;
+    font-size: 2rem;
+    margin-top: 7.6%;
+    margin-right: 36%;
+}
+
+.stelvalt input:checked ~ label
+{
+    color: gold;  /* Colora le stelle selezionate */
+}
+
+.stelvalt input:hover ~ label
+{
+    color: gold;  /* Colora le stelle al passaggio del mouse */
+}
+
+.testofeedfo
+{
+    position: absolute; 
+    top: 50%; 
+    left: 8%; 
+    color: rgb(255, 255, 255);
+    background-color :rgb(124, 57, 57); 
+    padding: 10px;
+    font-size: 25px; 
+    border-radius: 5px;
+}
+
+.stelvalf
+{
+    direction: rtl; 
+    display: absolute;
+    font-size: 2rem;
+    margin-top: 7.7%;
+    margin-right: 39%;
+}
+
+.stelvalf input:checked ~ label
+{
+    color: gold;  /* Colora le stelle selezionate */
+}
+
+.stelvalf input:hover ~ label
+{
+    color: gold;  /* Colora le stelle al passaggio del mouse */
+}
+
+.testofeedfi
+{
+    position: absolute; 
+    top: 65%; 
+    left: 8%; 
+    color: rgb(255, 255, 255);
+    background-color :rgb(124, 57, 57); 
+    padding: 10px;
+    font-size: 25px; 
+    border-radius: 5px;
+}
+
+.stelvalfi
+{
+    direction: rtl; 
+    display: absolute;
+    font-size: 2rem;
+    margin-top: 7.7%;
+    margin-right: 33%;
+}
+
+.stelvalfi input:checked ~ label
+{
+    color: gold;  /* Colora le stelle selezionate */
+}
+
+.stelvalfi input:hover ~ label
+{
+    color: gold;  /* Colora le stelle al passaggio del mouse */
+}
+
+.testofeedult
+{
+    position: absolute; 
+    top: 80%; 
+    left: 8%; 
+    color: rgb(255, 255, 255);
+    background-color :rgb(124, 57, 57); 
+    padding: 10px;
+    font-size: 40px; 
+    border-radius: 5px;
+}
+
+.stelvalult
+{
+    direction: rtl; 
+    display: absolute;
+    font-size: 3rem;
+    margin-top: 7.7%;
+    margin-right: 13%;
+}
+
+.stelvalult input:checked ~ label
+{
+    color: gold;  /* Colora le stelle selezionate */
+}
+
+.stelvalult input:hover ~ label
+{
+    color: gold;  /* Colora le stelle al passaggio del mouse */
+}
+
+.exploreuno
+{
+    position: absolute;
+    left: 20%;
+    top: 90%;
+    background-color :rgb(124, 57, 57); 
+    color: white;
+    border-radius: 5px 10px 5px 10px;
+    font-size: 25px;
+    padding: 5px;
+    font-family: 'Lucida Sans';
+}
+
+.areat
+{
+    position: absolute;
+    left: 28.7%;
+    top: 23%;
+    background-color :rgb(124, 57, 57);
+    color: white;
+    border-radius: 5px 10px 5px 10px;
+    font-size: 30px;
+    padding: 5px;
+    font-family: 'Lucida Sans';
+    width: 800px;
+    height: 600px;
+    border-color: white;
+}
+
+.inviaex
+{
+    position: absolute;
+    background-color :rgb(124, 57, 57);
+    color: white;
+    border-radius: 5px 10px 5px 10px;
+    font-size: 30px;
+    padding: 5px;
+    left: 45%;
+    top: 93%;
+    width: 150px;
+    height: 60px;
+}
+
+.titex
+{
+    position: absolute;
+    background-color :rgb(124, 57, 57);
+    color: white;
+    border-radius: 5px 10px 5px 10px;
+    padding: 5px;
+    left: 39.5%;
+    top: 3%;
+    font-size: 30px;
+    font-family: "Lucida Sans";
+}
+
+.testoex
+{
+    position: absolute;
+    background-color :rgb(124, 57, 57);
+    color: white;
+    border-radius: 5px 10px 5px 10px;
+    padding: 5px;
+    left: 35%;
+    top: 10%;
+    font-size: 20px;
+    font-family: "Lucida Sans";
+}
+
+.imgsxex
+{
+    float: left;
+    margin-left: 1%;
+}
+
+.imagesxrom
+{
+    width: 230px;
+    height: 900px;
+    border-radius: 5px 10px 5px 10px;
+}
+
+.imgdxex
+{
+    float: right;
+    margin-right: 1%;
+}
+
+.imagedxrom
+{
+    width: 230px;
+    height: 900px;
+    border-radius: 5px 10px 5px 10px;
+}
+
+.formcomp
+{
+    position: absolute;
+    background-color :rgb(124, 57, 57);
+    color: white;
+    border-radius: 5px 10px 5px 10px;
+    padding: 5px;
+    left: 41%;
+    top: 90%;
+    font-size: 30px;
+    font-family: "Lucida Sans";
+}
+
+.formfco
+{
+    position: absolute;
+    left: 41%;
+    background-color :rgb(124, 57, 57);
+    border-radius: 5px 10px 5px 10px;
+}
+
+.testofcou
+{
+    position: absolute;
+    background-color :rgb(124, 57, 57);
+    border-radius: 5px 10px 5px 10px;
+    left: 40%;
+    top: 25%;
+    color: white;
+    font-size: 30px;
+    font-family: "Lucida Sans";
+}
+
+.testofcod
+{
+    position: absolute;
+    background-color :rgb(124, 57, 57);
+    border-radius: 5px 10px 5px 10px;
+    left: 40%;
+    top: 35%;
+    color: white;
+    font-size: 30px;
+    font-family: "Lucida Sans";
+}
+
+.testofcot
+{
+    position: absolute;
+    background-color :rgb(124, 57, 57);
+    border-radius: 5px 10px 5px 10px;
+    left: 40%;
+    top: 45%;
+    color: white;
+    font-size: 30px;
+    font-family: "Lucida Sans";
+}
+
+.testofcoq
+{
+    position: absolute;
+    background-color :rgb(124, 57, 57);
+    border-radius: 5px 10px 5px 10px;
+    left: 40%;
+    top: 55%;
+    color: white;
+    font-size: 30px;
+    font-family: "Lucida Sans";
+}
+
+.pulsfc
+{
+    position: absolute;
+    background-color :rgb(124, 57, 57);
+    border-radius: 5px 10px 5px 10px;
+    left: 47.5%;
+    top: 65%;
+    color: white;
+    font-size: 30px;
+    font-family: "Lucida Sans";
+}
+
+.lu
+{
+    position: absolute;
+    color:white;
+    font-size: 30px;
+    font-family: 'Lucida Sans';
+    left: 48%;
+    top: 21%;
+    background-color: rgb(124, 57, 57);
+    border-radius: 5px 10px 5px 10px;
+}
+
+.ld
+{
+    position: absolute;
+    color:white;
+    font-size: 30px;
+    font-family: 'Lucida Sans';
+    left: 47%;
+    top: 31%;
+    background-color: rgb(124, 57, 57);
+    border-radius: 5px 10px 5px 10px;
+}
+
+.lt
+{
+    position: absolute;
+    color:white;
+    font-size: 30px;
+    font-family: 'Lucida Sans';
+    left: 48%;
+    top: 41%;
+    background-color: rgb(124, 57, 57);
+    border-radius: 5px 10px 5px 10px;
+}
+
+.lq
+{
+    position: absolute;
+    color:white;
+    font-size: 30px;
+    font-family: 'Lucida Sans';
+    left: 44%;
+    top: 51%;
+    background-color: rgb(124, 57, 57);
+    border-radius: 5px 10px 5px 10px;
+}
+
+.imgfcs
+{
+    margin-left: 2%;
+    float: left;
+}
+
+.imgfcd
+{
+    margin-right: 2%;
+    float: right;
+}
+
+.imagefc
+{
+    width: 400px;
+    height: 900px;
+    border-radius: 5px 10px 5px 10px;
+}
+
+.divtfc
+{
+    top: 90%;
+    left: 46%;
+    position: absolute;
+    animation: scroll 12s linear infinite;
+    width: 1100px;
+    height: 50px;
+    overflow: hidden;
+}
+
+.fcs
+{
+    position: absolute;
+    font-size: 30px;
+    font-family: 'Lucida Sans';
+    color: white;
+    white-space: nowrap;
+    margin: 0;
+    line-height: 50px;
+    border-radius: 5px 10px 5px 10px;
+    background-color: rgb(124, 57, 57);
+}
+
+.divtfcu
+{
+    top: 5%;
+    left: 46%;
+    position: absolute;
+    animation: scroll 12s linear infinite;
+    width: 1100px;
+    height: 50px;
+    overflow: hidden;
+}
+
+.texttfc
+{
+    position: absolute;
+    font-size: 30px;
+    font-family: 'Lucida Sans';
+    color: white;
+    white-space: nowrap;
+    margin: 0;
+    line-height: 50px;
+    border-radius: 5px 10px 5px 10px;
+    background-color: rgb(124, 57, 57);
+}
+
+
+@keyframes scroll {
+    from {
+        transform: translateX(-100%);
+    }
+    to {
+        transform: translateX(100%);
+    }
+}
+
+.backgroundfc
+{
+    background-color: rgb(160, 95, 95);
+    overflow-x: hidden;
+}
+
+#esito
+{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Lucida Sans';
+    color: white;
+    background-color: rgb(160, 95, 95);
+    top: 40%;
+}
+
+.btspd
+{
+    position: absolute;
+    top: 85%;
+    left: 44%;
+}
+
+.btsp
+{
+    font-size: 35px;
+    font-family: 'Lucida Sans';
+    color: white;
+    background-color: rgb(124, 57, 57);
+    border-radius: 5px 10px 5px 10px;
+}
+
+
+.imgu
+{
+    position: absolute;
+    left: 26.5%;
+    height: 200px;
+    width: 200px;
+    border-radius: 5px 10px 5px 10px;
+    top: 15%;
+}
+
+.imgd
+{
+    position: absolute;
+    left: 44.5%;
+    height: 200px;
+    width: 200px;
+    border-radius: 5px 10px 5px 10px;
+    top: 15%;
+}
+
+.imgt
+{
+    position: absolute;
+    left: 62.5%;
+    height: 200px;
+    width: 200px;
+    border-radius: 5px 10px 5px 10px;
+    top: 15%;
+}
+
+.buttshopu
+{
+    position: absolute;
+    background-color: rgb(124, 57, 57);
+    color: white;
+    font-size: 25px;
+    font-family: 'Lucida Sans';
+    left: 25.5%;
+    top: 39%;
+    border-radius: 5px 10px 5px 10px;
+}
+
+.buttshopd
+{
+    position: absolute;
+    background-color: rgb(124, 57, 57);
+    color: white;
+    font-size: 25px;
+    font-family: 'Lucida Sans';
+    left: 43.5%;
+    top: 39%;
+    border-radius: 5px 10px 5px 10px;
+}
+
+.buttshopt
+{
+    position: absolute;
+    background-color: rgb(124, 57, 57);
+    color: white;
+    font-size: 25px;
+    font-family: 'Lucida Sans';
+    left: 61.5%;
+    top: 39%;
+    border-radius: 5px 10px 5px 10px;
+}
+
+.imgq
+{
+    position: absolute;
+    left: 26.5%;
+    height: 200px;
+    width: 200px;
+    border-radius: 5px 10px 5px 10px;
+    top: 55%;
+}
+
+.imgc
+{
+    position: absolute;
+    left: 44.5%;
+    height: 200px;
+    width: 200px;
+    border-radius: 5px 10px 5px 10px;
+    top: 55%;
+}
+
+.imgs
+{
+    position: absolute;
+    left: 62.5%;
+    height: 200px;
+    width: 200px;
+    border-radius: 5px 10px 5px 10px;
+    top: 55%;
+}
+
+.buttshopq
+{
+    position: absolute;
+    background-color: rgb(124, 57, 57);
+    color: white;
+    font-size: 25px;
+    font-family: 'Lucida Sans';
+    left: 25.5%;
+    top: 79%;
+    border-radius: 5px 10px 5px 10px;
+}
+
+.buttshopc
+{
+    position: absolute;
+    background-color: rgb(124, 57, 57);
+    color: white;
+    font-size: 25px;
+    font-family: 'Lucida Sans';
+    left: 43.5%;
+    top: 79%;
+    border-radius: 5px 10px 5px 10px;
+}
+
+.buttshops
+{
+    position: absolute;
+    background-color: rgb(124, 57, 57);
+    color: white;
+    font-size: 25px;
+    font-family: 'Lucida Sans';
+    left: 61.5%;
+    top: 79%;
+    border-radius: 5px 10px 5px 10px;
+}
+
+
+.produd
+{
+    position: absolute;
+    top: 15%;
+    background-color: rgb(124, 57, 57);
+    left: 29%;
+    border-radius: 5px 10px 5px 10px;
+    height: 600px;
+    width: 800px;
+}
+
+.imgprodu
+{
+    margin-left: 25%;
+    margin-top: 5%;
+    width: 400px;
+    height: 300px;
+    border-radius: 5px 10px 5px 10px;
+}
+
+.tprodu
+{
+    color: white;
+    font-size: 23px;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 5%;
+}
+
+.btprodu
+{
+    position: absolute;
+    color: white;
+    font-size: 40px;
+    background-color: rgb(124, 57, 57);
+    border-radius: 5px 10px 5px 10px;
+    top: 87%;
+    left: 43%;
+}
+
+.divcar
+{
+    position: absolute;
+    left: 26%;
+    top: 15%;
+    width: 900px;
+    height: 700px;
+    background-color: rgb(124, 57, 57);
+    border-radius: 5px 10px 5px 10px;
+}
+
+.carru
+{
+    width: 25px;
+    height: 25px;
+    background-color: rgb(124, 57, 57);
+    padding: 0;
+}
+
